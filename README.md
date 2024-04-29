@@ -81,7 +81,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ```
 
 ### OUTPUT
-![image](https://github.com/MukeshVelmurugan/Ex-5--NN/assets/118707363/a57685b1-217f-4842-8ab2-2379e1f514c9)
+
+![326288208-a57685b1-217f-4842-8ab2-2379e1f514c9](https://github.com/NaveenSivamalai/Ex-5--NN/assets/123792574/b9334792-e2aa-4779-b63e-8dd74d5c748c)
 
 
 
